@@ -27,9 +27,9 @@ Module Details:
  - Displays score, percentage
 
 ***Technologies Used:***
-o Frontend: HTML, CSS, JavaScript, Bootstrap
-o Backend: PHP
-o Database: PostgresSQL
+- Frontend: HTML, CSS, JavaScript, Bootstrap
+- Backend: PHP
+- Database: PostgresSQL
 
 *Project Structure*
 1) admin/ or mentor/ – Teacher functionalities
