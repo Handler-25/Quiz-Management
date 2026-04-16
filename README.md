@@ -26,13 +26,13 @@ Module Details:
  - Rank generation based on performance
  - Displays score, percentage
 
-***Technologies Used***
- Frontend: HTML, CSS, JavaScript, Bootstrap
- Backend: PHP
- Database: PostgresSQL
+***Technologies Used:***
+o Frontend: HTML, CSS, JavaScript, Bootstrap
+o Backend: PHP
+o Database: PostgresSQL
 
 *Project Structure*
-1.admin/ or mentor/ – Teacher functionalities
-2.student/ – Student interface
+1) admin/ or mentor/ – Teacher functionalities
+2) student/ – Student interface
 - db.php – Database connection
 - auth.php – Authentication system
