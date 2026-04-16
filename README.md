@@ -1,4 +1,4 @@
-/*Overview*/
+*Overview*
 
 The Online Quiz Management and Monitoring System is a web-based application designed to conduct, manage, and monitor quizzes efficiently. It provides a secure platform for teachers to create quizzes and evaluate student performance, while ensuring fair assessment through monitoring features.
 
@@ -27,9 +27,9 @@ Module Details:
  - Displays score, percentage
 
 ***Technologies Used***
-Frontend: HTML, CSS, JavaScript, Bootstrap
-Backend: PHP
-Database: PostgresSQL
+ Frontend: HTML, CSS, JavaScript, Bootstrap
+ Backend: PHP
+ Database: PostgresSQL
 
 *Project Structure*
 1.admin/ or mentor/ – Teacher functionalities
